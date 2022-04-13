@@ -1,0 +1,31 @@
+html {
+  font-size: 20px; /* px значит 'пиксели': базовый шрифт будет 20 пикселей в высоту  */
+  font-family: Grape Nuts /* здесь  я просто пишу название шрифта вручную  */
+}
+html {
+  background-color: #800080;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #00539F;
+  text-shadow: 3px 3px 1px pink;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+p, li {
+  font-size: 20px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF1493;
+  padding: 0 20px 20px 20px;
+  border: 15px solid black;
+}
